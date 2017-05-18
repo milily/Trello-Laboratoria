@@ -2,6 +2,11 @@ body{
     background-color: #0079bf;
 }
 
+h2{
+    color: white;
+    text-align: center;
+}
+
 #contenedor{
     display:flex;
     flex-direction: column;
