@@ -1,0 +1,30 @@
+body{
+    background-color: #0079bf;
+}
+
+#contenedor{
+    display:flex;
+    flex-direction: column;
+    width: 200px;
+}
+
+#lista{
+    flex:0.3;
+    margin-top: 20px;
+    padding: 5px;
+    background-color: #006aa8;
+    color: #ecf0f1;
+    border-radius: 5px;
+    margin-right:10px;
+}
+
+.addList{
+    background-color: transparent;
+    border-color: transparent;
+    color:#9cc5dd;
+    
+}
+
+.botonGuardarLista{
+    display:none;
+}
